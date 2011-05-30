@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="Flex.Build.Configuration">
+    <option name="DO_BUILD" value="true" />
+    <option name="OUTPUT_FILE_NAME" value="flowplayer_core.swf" />
+    <option name="TARGET_PLAYER_VERSION" value="10.2.0" />
+    <option name="VERSION" value="3" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/actionscript" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/actionscript-builtin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/actionscript-commercial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/corelib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/flexunit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/goasp/src_go" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/licensekey" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/thunderbolt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.5 (player 10.2)" jdkType="Flex SDK Type" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="flowplayer.devkit" exported="" />
+    <orderEntry type="module" module-name="flowplayer.controls" exported="" />
+    <orderEntry type="module" module-name="common" exported="" />
+  </component>
+</module>
+
